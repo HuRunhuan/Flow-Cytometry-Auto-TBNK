@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow Cytometry Auto TBNK", "Flow Cytometry Auto TBNK\Flow Cytometry Auto TBNK.csproj", "{768A1E26-CEA4-418E-BAF7-115C9FBA54BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{768A1E26-CEA4-418E-BAF7-115C9FBA54BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768A1E26-CEA4-418E-BAF7-115C9FBA54BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768A1E26-CEA4-418E-BAF7-115C9FBA54BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768A1E26-CEA4-418E-BAF7-115C9FBA54BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00AE3E2D-5075-4E30-A513-B691BFA08998}
+	EndGlobalSection
+EndGlobal
